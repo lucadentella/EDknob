@@ -1,6 +1,6 @@
 # EDknob
 
-![](https://github.com/lucadentella/EDknob/raw/main/images/cover.jpg)
+![](https://github.com/lucadentella/EDknob/raw/main/images/cover.png)
 
 Physical knob for EngineDriver application
 

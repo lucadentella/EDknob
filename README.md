@@ -26,5 +26,4 @@ Physical knob for EngineDriver application
 - ["Thing" on Thingiverse](https://www.thingiverse.com/thing:7028397)
 
 ## :floppy_disk: Firmware
-Program the 
  - [Arduino sketch](https://github.com/lucadentella/EDknob/tree/main/firmware/edknob)

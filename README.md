@@ -19,7 +19,7 @@ Physical knob for EngineDriver application
 - *optional* USB-C [male to male adapter](https://www.aliexpress.com/item/1005006744652991.html)
 
 ## :wrench: Board
-- [Schematics, PDF](https://github.com/lucadentella/NFCMusicPlayer/raw/main/board/edknob.pdf)
+- [Schematics, PDF](https://github.com/lucadentella/EDknob/raw/main/board/edknob.pdf)
 - [Project page for order ready-made PCBs or download Gerber files](https://www.pcbway.com/project/shareproject/NFCMusicPlayer_7cb0c6f8.html)
 
 ## :floppy_disk: Firmware

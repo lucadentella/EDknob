@@ -20,7 +20,7 @@ Physical knob for EngineDriver application
 
 ## :wrench: Board
 - [Schematics, PDF](https://github.com/lucadentella/EDknob/raw/main/board/edknob.pdf)
-- [Project page for order ready-made PCBs or download Gerber files](https://www.pcbway.com/project/shareproject/NFCMusicPlayer_7cb0c6f8.html)
+- [Project page for order ready-made PCBs or download Gerber files](https://www.pcbway.com/project/shareproject/EDknob_physical_knob_for_Engine_Driver_3e1b5b26.html)
 
 ## :gift: Enclosure
 - ["Thing" on Thingiverse](https://www.thingiverse.com/thing:7028397)

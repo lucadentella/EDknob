@@ -7,8 +7,7 @@ Physical knob for EngineDriver application
 ![](https://img.shields.io/badge/license-CC--BY--NC--SA-green)
 
 ## :movie_camera: Tutorial
-- [Youtube video - English](https://youtu.be/ck0IdwVWIIs)
-- [Youtube video - Italiano](https://youtu.be/Wxny4k97sL8)
+- [Youtube video](https://youtu.be/52o1xdvAei4)
 
 ## :notebook: Part list
 ![](https://github.com/lucadentella/EDknob/raw/main/images/parts.png)

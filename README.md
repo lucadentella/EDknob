@@ -26,3 +26,7 @@ Physical knob for EngineDriver application
 
 ## :floppy_disk: Firmware
  - [Arduino sketch](https://github.com/lucadentella/EDknob/tree/main/firmware/edknob)
+
+Required libraries:
+- RP2040 Encoder Library: https://github.com/gbr1/rp2040-encoder-library
+- Adafruit TinyUSB: https://github.com/adafruit/Adafruit_TinyUSB_Arduino
